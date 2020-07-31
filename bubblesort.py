@@ -14,7 +14,7 @@ import sys
 
 if __name__ == '__main__':
 
-    x = list(map(int, input().rstrip().split())) #try adding 4 2 3 1 pr whatever values you would like to run
+    x = list(map(int, input().rstrip().split())) #try adding 4 2 3 1 or whatever values you would like to run
 
 
 
